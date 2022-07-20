@@ -1,3 +1,3 @@
 # git-mini-project
 Greetings from Marcus
-Anothergreet
+Hallo von Shumi
